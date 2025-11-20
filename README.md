@@ -1,48 +1,29 @@
-# Pointify Mobile
+# 📱 Pointify Mobile - Proyecto Grupal
 
-Aplicación móvil de punto de venta desarrollada con React Native y Expo.
+Sistema POS para restaurantes desarrollado en React Native con Expo.
 
-## 🚀 Requisitos previos
+## 🚀 Inicio rápido
 
-- Node.js 16 o superior
-- npm o yarn
-- Expo Go (para móvil)
+1. Clona el repositorio
+2. Instala dependencias: `npm install`
+3. Inicia el proyecto: `npm start`
+4. Escanea el QR con Expo Go (móvil) o presiona 'w' (web)
 
-## 📦 Instalación
+## 📖 ¿Cómo crear tu vista?
 
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/al05-017-0322-crypto/pointify-mobile-clean.git
-cd pointify-mobile-clean
-```
+Lee el archivo **PROMPT_MAESTRO.md** y sigue las instrucciones.
 
-2. Instalar dependencias:
-```bash
-npm install
-```
+## 🤝 Contribuciones
 
-3. Ejecutar el proyecto:
-```bash
-npm start
-```
+Este es un proyecto grupal. Si mejoras algo, haz un pull request.
 
-## 📱 Probar en móvil
+## ⚠️ Importante
 
-1. Instala **Expo Go** en tu celular
-2. Escanea el código QR que aparece en la terminal
-3. La app se abrirá automáticamente
+Este proyecto fue iniciado como plantilla base. No está completo ni es perfecto.
+Todos somos responsables de mejorarlo y mantenerlo.
 
-## 🌐 Probar en navegador
+---
 
-Presiona `w` en la terminal después de `npm start`
-
-## 🛠️ Tecnologías
-
-- React Native
-- Expo
-- TypeScript
-- React Native Safe Area Context
-
-## 👨‍💻 Autor
-
-Miguel Angel - Universidad Tecnológica de la Costa
+**Desarrollado por:** Equipo de [IDGS-101  
+Proyecto "Red Agroecológica y Solidaria]  
+**Ciclo:** [2025]
