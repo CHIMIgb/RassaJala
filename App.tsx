@@ -12,17 +12,17 @@ import {
 import { SafeAreaView, SafeAreaProvider } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 
-import { Header } from './components/Header';
-import { Categories } from './components/Categories';
-import { ProductCard } from './components/ProductCard';
-import { CartSidebar } from './components/CartSidebar';
-import { Cart } from './components/Cart';
-import { MenuSidebar } from './components/MenuSidebar';
-import { Register } from './components/Register';
-import { ProfileView } from './components/ProfileView'; // ✅ NUEVO
-import { EditProfile } from './components/EditProfile'; // ✅ NUEVO
-import { SettingsMenu } from './components/SettingsMenu'; // ✅ NUEVO
-import { products } from './data/products';
+import { Header } from './src/components/Header';
+import { Categories } from './src/components/Categories';
+import { ProductCard } from './src/components/ProductCard';
+import { CartSidebar } from './src/components/CartSidebar';
+import { Cart } from './src/components/Cart';
+import { MenuSidebar } from './src/components/MenuSidebar';
+import { Register } from './src/screens/Register';
+import { ProfileView } from './src/screens/ProfileView'; // ✅ NUEVO
+import { EditProfile } from './src/screens/EditProfile'; // ✅ NUEVO
+import { SettingsMenu } from './src/components/SettingsMenu'; // ✅ NUEVO
+import { products } from './src/data/products';
 
 export default function App() {
   const [menuVisible, setMenuVisible] = useState(false);
