@@ -1,7 +1,5 @@
 # 📱 Pointify Mobile - Proyecto Grupal
 
-Sistema POS para restaurantes desarrollado en React Native con Expo.
-
 ## 🚀 Inicio rápido
 
 1. Clona el repositorio
