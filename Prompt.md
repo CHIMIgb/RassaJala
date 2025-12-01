@@ -1,7 +1,7 @@
 # 📱 RassaJala - Sistema de Gestión de Productos Agrícolas
 
 > **Versión:** 2.1  
-> **Última actualización:** Noviembre 2024  
+> **Última actualización:** Noviembre 2025
 > **Stack:** React Native + Expo + TypeScript
 
 ## 📋 Tabla de Contenidos
